@@ -1,6 +1,5 @@
-## NAME : S.KAVIYA
-## DATE : 27.03.24
-## REGISTER NO : 212223040090
+
+## DATE : 19.03.24
 
 # EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-
 ## Aim: To Interface a Analog Input  (soil moisture sensor) to ARM IOT development board and write a  program to obtain  the data on the com port 
